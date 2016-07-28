@@ -10,7 +10,7 @@ public class GitHello {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Treci git commit");
+		System.out.println("Treci gitt commit");
 		System.out.println(suma(1,2));
 	}
 
